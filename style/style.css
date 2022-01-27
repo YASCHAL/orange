@@ -146,7 +146,21 @@ nav ul li button {
 .link-footer a {
     color: black;
 }
+footer {
+  background-color: aquamarine;
+  padding-bottom: 3rem;
+}
 footer h3 {
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 3rem;
+}
+.link-footer {
+  margin-top: 1.3rem;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 0 1.5rem;
+}
+.social {
+  gap: 0 0.8rem;
 }
